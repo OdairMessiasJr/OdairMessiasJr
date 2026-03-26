@@ -1,10 +1,10 @@
-# 🌌 Sistema Operacional: OdairMessiasJr
+# 🌌  OdairMessiasJr
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=thicker&color=00f2ff&height=150&section=header&text=TECH%20PROFILE&fontSize=70&theme=tokyonight" />
 </p>
 
-### 🛠️ Stack Tecnológica (Ícones)
+### 🛠️ 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -18,8 +18,8 @@
 
 ---
 
-### 📊 Porcentagem de Uso (Automático)
-O gráfico abaixo é gerado **automaticamente** analisando todos os seus repositórios públicos:
+### 📊 
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
