@@ -12,7 +12,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+### 🕒 Programação em Tempo Real (WakaTime)
+*Estatísticas reais de tempo gasto codando nos últimos 7 dias*
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="WakaTime Stats" />
+</p>
 ---
 
 ### 📊 Porcentagem Real de Uso (Linguagens)
