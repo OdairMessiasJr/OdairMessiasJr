@@ -1,4 +1,4 @@
-# 🌌 Digital Entity: Odair Messias Junior
+# 🌌 Digital Entity: OdairMessiasJr
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=thicker&color=00f2ff&height=200&section=header&text=SYSTEM%20ARCHITECT&fontSize=70&animation=twinkling&theme=tokyonight" />
