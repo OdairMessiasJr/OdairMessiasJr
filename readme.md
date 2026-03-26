@@ -27,8 +27,7 @@
 
 ---
 
-### 📊 Porcentagem de Uso (Automático)
-O gráfico abaixo é gerado **automaticamente** analisando todos os seus repositórios públicos:
+### 📊 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
