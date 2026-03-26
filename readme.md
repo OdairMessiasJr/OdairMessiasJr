@@ -16,7 +16,7 @@
 *Estatísticas reais de tempo gasto codando nos últimos 7 dias*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OdairMessiasJr&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="WakaTime Stats" />
 </p>
 ---
 
