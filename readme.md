@@ -27,6 +27,15 @@
 
 ---
 
+### 📊 Porcentagem de Uso (Automático)
+O gráfico abaixo é gerado **automaticamente** analisando todos os seus repositórios públicos:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
+</p>
+
+---
+
 ### 📈 Estatísticas de Contribuição
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff" alt="Estatísticas do GitHub" />
@@ -36,7 +45,7 @@
 
 ### 🔗 Conexões
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="blank">
+  <a href="https://linkedin.com/in/odair-junior-006a56b5" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
