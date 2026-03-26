@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 ### 🕒 Programação em Tempo Real (WakaTime)
-*Estatísticas reais de tempo gasto codando nos últimos 7 dias*
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OdairMessiasJr&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="WakaTime Stats" />
@@ -21,7 +21,7 @@
 ---
 
 ### 📊 Porcentagem Real de Uso (Linguagens)
-*Se o gráfico abaixo não carregar imediatamente, tente atualizar a página ou verifique se seus repositórios são públicos.*
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
