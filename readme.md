@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -31,14 +31,14 @@
 O gráfico abaixo é gerado **automaticamente** analisando todos os seus repositórios públicos:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ### 📈 Estatísticas de Contribuição
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OdairMessiasJr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff" alt="Estatísticas do GitHub" />
 </p>
 
 ---
