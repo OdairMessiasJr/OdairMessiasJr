@@ -1,50 +1,39 @@
-# 🌌  OdairMessiasJr
+# 🌌 OdairMessiasJr
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=thicker&color=00f2ff&height=150&section=header&text=TECH%20PROFILE&fontSize=70&theme=tokyonight" />
 </p>
 
-### 🛠️ 
+### 🛠️ Minhas Stacks
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 📊 
-
+### 📊 Porcentagem Real de Uso (Linguagens)
+*Se o gráfico abaixo não carregar imediatamente, tente atualizar a página ou verifique se seus repositórios são públicos.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### 📊 
-
+### 📈 Estatísticas Gerais
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdairMessiasJr&layout=donut&theme=tokyonight&hide_border=true&title_color=00f2ff&text_color=ffffff" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OdairMessiasJr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 </p>
 
 ---
 
-### 📈 Estatísticas de Contribuição
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OdairMessiasJr&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff" alt="Estatísticas do GitHub" />
-</p>
-
----
-
-### 🔗 Conexões
+### 📡 Conexões
 <p align="left">
-  <a href="https://linkedin.com/in/odair-junior-006a56b5" target="blank">
+  <a href="https://linkedin.com/in/OdairMessiasJr" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
