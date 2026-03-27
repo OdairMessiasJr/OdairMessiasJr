@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-[![wakatime](https://wakatime.com/badge/user/74fb6411-7e5d-4a51-a4a8-e49e81434781/project/ec2df374-9e1d-4aff-8206-cdcb805b4a9a.svg)](https://wakatime.com/badge/user/74fb6411-7e5d-4a51-a4a8-e49e81434781/project/ec2df374-9e1d-4aff-8206-cdcb805b4a9a)
+
 ### 🕒 Programação em Tempo Real (WakaTime)
 
 
