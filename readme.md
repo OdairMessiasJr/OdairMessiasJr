@@ -15,7 +15,7 @@
 
 ### 🕒 Programação em Tempo Real (WakaTime)
 
-
+<figure><embed src="https://wakatime.com/share/@74fb6411-7e5d-4a51-a4a8-e49e81434781/0cd9a93f-3b0d-4651-a09c-df80f9e07b0b.svg"></embed></figure>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OdairMessiasJr&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="WakaTime Stats" />
 </p>
